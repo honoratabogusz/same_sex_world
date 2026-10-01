@@ -2,7 +2,7 @@
 
 ## Scope
 
-This package contains the minimum retained code path for tables and figures in Bogusz, H., & Gromadzki, J. (2026), Labor Market Outcomes of Same-Sex Couples in Countries with Legalized Same-Sex Marriage, *ILR Review*. https://doi.org/10.1177/00197939261485216
+This package contains the minimum retained code path for tables and figures in Bogusz, H., & Gromadzki, J. (2026), Labor Market Outcomes of Same-Sex Couples in Countries with Legalized Same-Sex Marriage. *ILR Review*. https://doi.org/10.1177/00197939261485216
 
 ## Layout
 
